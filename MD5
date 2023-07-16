@@ -1,0 +1,11 @@
+3167717c1835c7cf68850489d32fc5ee *DESCRIPTION
+5250535a920db4d185a821d25b2fa233 *NAMESPACE
+e5050218ce029806cb92ad38904b15e4 *R/SMCtest.R
+c4feb8c7ee2b7d52229307c31f57684c *R/WLRtest.R
+fa9b993295abfa96d7cf69190afbd4ea *R/sim_data.R
+a4b4dc26bbac27e226ab55e41cb0e543 *README.md
+bf1f8b211b0a5e0873d44181e73a1d5e *build/partial.rdb
+fcfbd67bc79a6bf7dd8911ead4b8ce9c *data/sim_data.rda
+51577984aedb8f04f001d364f413c0bd *man/SMCtest.Rd
+70ce305eb0b5faf6d02cda740c4291e3 *man/WLRtest.Rd
+84d9f18d2a68ba61f7477841efbe0396 *man/sim_data.Rd
